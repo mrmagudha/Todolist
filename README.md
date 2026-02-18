@@ -1,4 +1,4 @@
-# Todolist
+# Todolist ISAAC and MITCHEL
 
 ​📝 TodoList: Our First Full Stack App
 ​Welcome to TodoList, a collaborative project built by Isaac and his partner. This application is designed to help us master the Java Full Stack ecosystem by building a real-world task management tool.
